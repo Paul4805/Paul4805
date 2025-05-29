@@ -68,5 +68,5 @@ My projects often blend:
 
 ---
 
-"The future of AI is not about replacing humans, it's about augmenting human capabilities." -Sundar Pichai (CEO Google)
+"The future of AI is not about replacing humans, it's about augmenting human capabilities." -Sundar Pichai (CEO Alphabet Inc)
 
